@@ -106,17 +106,17 @@ Contents
    :glob:
    :maxdepth: 2
 
-   docs/start-here
+   docs/start-here.rst
    docs/debatetypes/*
    docs/cases/*
    docs/flowing/*
    docs/crossfire/*
    docs/rebuttal/*
-   summary/*
-   theory/*
-   useful-resources
-   know-your-lingo
-   appendix/*
+   docs/summary/*
+   docs/theory/*
+   docs/useful-resources
+   docs/know-your-lingo
+   docs/appendix/*
 
 Indices and tables
 ------------------
