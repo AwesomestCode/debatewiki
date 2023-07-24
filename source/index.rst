@@ -33,7 +33,7 @@ Welcome to the Debate Wiki!
 
       Parts of a Case
       ^^^
-      Covers the different parts of a case, including: the resolution, the value, the value criterion, contentions, and responses.
+      Covers the different parts of a case, including: the resolution, uniqueness, links, impacts, and more.
 
    .. grid-item-card::
       :link: /docs/flowing/index
