@@ -1,9 +1,9 @@
 Types of Debate
 ======================================
 
-Debate is a broad term, but there are a number of types of debate that are commonly used. Generally, all forms of debate involve two or more competitors either defending or attacking a pre-determined course of action, called a resolution. This wiki focuses on a specific type of debate, ``public forum debate``, but there are many other types of debate that are used in the United States and around the world.
+Debate is a broad term, but there are a number of types of debate that are commonly used. Generally, all forms of debate involve two or more competitors either defending or attacking a pre-determined course of action, called a :ref:`resolution <resolution>`. This wiki focuses on a specific type of debate, ``public forum debate``, but there are many other types of debate that are used in the United States and around the world.
 
-:doc:`public-forum`
+:doc:`Public Forum <public-forum>`
 ----------------------
 One of the more recent types of debate, public forum debate involves two teams of two people each competing for and against a resolution. 
 

@@ -5,6 +5,7 @@ Your case is your set of contentions that help advance your side of the debate. 
 resolution (the predetermined statement that's the contention of the debate), argues the status quo right now (the uniqueness),
 and how affirming the resolution would change it (the link), and why that change is good or bad (the impact).
 
+.. _resolution:
 The Resolution
 --------------
 The resolution is the statement that is being debated. It is the contention of the debate. Usually, the resolution involves

@@ -1,7 +1,7 @@
 Public Forum
 ======================================
 
-Public forum debate involves two teams of two people each debating for or against a resolution. The resolution changes every two months in the fall term, and then once every month in the spring.
+Public forum debate involves two teams of two people each debating for or against a :ref:`resolution`. The resolution changes every two months in the fall term, and then once every month in the spring.
 
 For instance, the resolution for January 2023 was "Resolved: The United States Federal Government should increase its diplomatic efforts to peacefully resolve internal armed conflicts in West Asia."
 

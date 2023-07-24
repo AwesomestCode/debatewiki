@@ -50,3 +50,5 @@ html_theme_options = {
     "source_branch": "master",
     "source_directory": "source/",
 }
+
+html_footer = "Test"

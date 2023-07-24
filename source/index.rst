@@ -99,12 +99,28 @@ Welcome to the Debate Wiki!
       ^^^
       Contains a glossary, a robot design gallery, and information about specific vendors.
 
+Contents
+--------
+
 .. toctree::
+   :glob:
    :maxdepth: 2
-   :caption: Contents:
+
+   docs/start-here
+   docs/debatetypes/*
+   docs/cases/*
+   docs/flowing/*
+   docs/crossfire/*
+   docs/rebuttal/*
+   summary/*
+   theory/*
+   useful-resources
+   know-your-lingo
+   appendix/*
 
 Indices and tables
-==================
+------------------
+
 
 * :ref:`genindex`
 * :ref:`modindex`
